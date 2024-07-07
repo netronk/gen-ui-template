@@ -1,10 +1,10 @@
-import { RootProvider } from '@netronk/gen-ui/provider';
+import { RootProvider } from "@netronk/gen-ui/provider";
 import "@netronk/gen-ui/style.css";
-import { Inter } from 'next/font/google';
-import type { ReactNode } from 'react';
+import { Inter } from "next/font/google";
+import type { ReactNode } from "react";
 
 const inter = Inter({
-  subsets: ['latin'],
+  subsets: ["latin"],
 });
 
 export default function Layout({ children }: { children: ReactNode }) {
