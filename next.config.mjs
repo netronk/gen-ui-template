@@ -1,4 +1,4 @@
-import createMDX from "@netronk/gen-mdx/config";
+import createMDX from '@netronk/gen-mdx/config';
 
 const withMDX = createMDX();
 

@@ -1,7 +1,7 @@
 import {
   type BaseLayoutProps,
   type DocsLayoutProps,
-} from "@netronk/gen-ui/layout";
+} from '@netronk/gen-ui/layout';
 import { pageTree } from '@/app/source';
 
 // shared configuration
